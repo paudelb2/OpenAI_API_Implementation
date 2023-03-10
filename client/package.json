@@ -1,5 +1,5 @@
 {
-  "homepage": "http://paudelb2.github.io/OpenAI_API_Implementation",
+  "homepage": "https://paudelb2.github.io/OpenAI_API_Implementation",
   "name": "client",
   "private": true,
   "version": "0.0.0",
@@ -8,7 +8,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "predeploy": "npm run build",
+    "predeploy": "npm run start",
     "deploy": "gh-pages -d build"
   },
   "dependencies": {
